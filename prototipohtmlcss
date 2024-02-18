@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dungeons & Dragons 5ª Edição</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo ao Mundo de Dungeons & Dragons 5ª Edição!</h1>
+  </header>
+  <main>
+    <section id="introducao">
+      <p>  Em Dungeons & Dragons (D&D) 5ª Edição, você entra em um mundo de fantasia onde sua imaginação é o limite. Seja um poderoso guerreiro enfrentando dragões, um sábio mago manipulando os elementos, ou um furtivo ladino driblando armadilhas, as possibilidades são infinitas. Vamos mergulhar nos três pilares fundamentais do sistema: atributos, raças e classes.</p>
+    </section>
+    <section id="atributos">
+      <h2>Atributos</h2>
+      <ul>
+        <li>
+          <strong>Força:</strong> Este atributo mede a força física bruta do seu personagem. Representa o quão bem você pode esmagar uma maçã, erguer uma pedra ou golpear um inimigo em combate corpo a corpo.
+        </li>
+        <li>
+          <strong>Destreza:</strong> A destreza está relacionada à agilidade e reflexos do seu personagem. Determine quão habilidoso você é em desviar de ataques, escalar paredes ou desarmar armadilhas.
+        </li>
+        <li>
+          <strong>Constituição:</strong> Este atributo reflete a saúde e resistência do seu personagem. Quanto maior sua constituição, mais capaz você é de resistir a doenças, venenos e danos físicos.
+        </li>
+        <li>
+          <strong>Inteligência:</strong> A inteligência representa o intelecto e a capacidade de raciocínio do seu personagem. Quanto mais inteligente, mais habilidoso você será em resolver quebra-cabeças, recordar informações e lançar magias complexas.
+        </li>
+        <li>
+          <strong>Sabedoria:</strong> Sabedoria engloba a percepção, intuição e bom senso do seu personagem. É o seu conhecimento prático do mundo ao seu redor, além de ser capaz de distinguir entre o bem e o mal.
+        </li>
+        <li>
+          <strong>Carisma:</strong> Carisma mede o charme, liderança e persuasão do seu personagem. Determine quão bem você pode convencer outros personagens, liderar um grupo ou intimidar seus oponentes.
+        </li>
+      </ul>
+    </section>
+    <section id="racas">
+      <h2>Raças</h2>
+      <p>  As raças em D&D representam os diferentes tipos de seres que habitam o mundo, cada um com sua própria história, cultura e estilo de vida. Aqui estão algumas das raças mais comuns:</p>
+      <ul>
+        <li>
+          <strong>Humanos:</strong> Versáteis e adaptáveis, os humanos são encontrados em todos os cantos do mundo de D&D. Sua diversidade cultural e capacidade de se adaptar a diferentes ambientes os tornam populares entre os aventureiros.
+        </li>
+        <li>
+          <strong>Elfos:</strong> Elegantes e graciosos, os elfos são conhecidos por sua longevidade e afinidade com a natureza. Eles são habilidosos arqueiros e magos, e muitas vezes vivem em harmonia com as florestas.
+        </li>
+        <li>
+          <strong>Anões:</strong> Resistentes e obstinados, os anões são mestres na arte da forja e da guerra. Eles valorizam a honra, o trabalho árduo e a lealdade à sua comunidade.
+        </li>
+        <li>
+          <strong>Halflings:</strong> Pequenos e ágeis, os halflings são conhecidos por sua natureza amigável e amor pela boa comida. Eles são habilidosos em evadir perigos e muitas vezes vivem em comunidades agrícolas pacíficas.
+        </li>
+        <li>
+          <strong>Meio-Elfos:</strong> Meio-elfos herdam traços de ambas as raças, combinando a versatilidade dos humanos com a graça dos elfos. Eles muitas vezes se sentem como estrangeiros em ambos os mundos, mas também podem servir como mediadores entre humanos e elfos.
+        </li>
+      </ul>
+    </section>
+    <section id="classes">
+      <h2>Classes</h2>
+      <p>  As classes em D&D representam os arquétipos e profissões que seu personagem pode seguir, moldando seu estilo de jogo e habilidades. Aqui estão algumas das classes mais populares:</p>
+      <ul>
+        <li>
+          <strong>Guerreiro:</strong> Mestres das armas e da armadura, os guerreiros são especialistas em combate corpo a corpo. Eles podem assumir o papel de tanque, protegendo seus aliados enquanto desferem golpes poderosos contra seus inimigos.
+        </li>
+        <li>
+          <strong>Mago:</strong> Dotados de conhecimento arcano, os magos lançam poderosas magias para manipular a realidade ao seu redor. Eles são versáteis conjuradores capazes de causar estragos em seus oponentes ou apoiar seus aliados com magias de suporte.
+        </li>
+        <li>
+          <strong>Ladino:</strong> Especialistas em furtividade e astúcia, os ladrões são mestres em se mover nas sombras e desarmar armadilhas. Eles são especialistas em ataques furtivos e podem desempenhar papéis de reconhecimento ou sabotagem em uma aventura.
+        </li>
+        <li>
+          <strong>Clérigo:</strong> Servos dos deuses, os clérigos canalizam poder divino para curar ferimentos, banir o mal e proteger os indefesos. Eles desempenham papéis vitais em um grupo, fornecendo cura e suporte espiritual durante as batalhas.
+        </li>
+      </ul>
+      <section id="criacao-personagem">
+        <h2>Criação de Personagem (Simulação):</h2>
+        <p>Vamos criar um personagem exemplo: Um meio-elfo mago chamado Aramil.</p>
+        <p>Aramil decidiu combinar a versatilidade humana com a graça élfica, escolhendo a raça de meio-elfo. Ele cresceu em uma comunidade élfica, mas sempre foi fascinado pelo estudo da magia, então decidiu seguir o caminho do mago.</p>
+        <p>Para seus atributos, Aramil prioriza inteligência e destreza para maximizar seu poder mágico e agilidade. Ele atribui seus números de atributo da seguinte forma:</p>
+        <ul><strong>
+          <li>Força: 10</li>
+          <li>Destreza: 14</li>
+          <li>Constituição: 12</li>
+          <li>Inteligência: 16</li>
+          <li>Sabedoria: 10</li>
+          <li>Carisma: 12</li></strong>
+        </ul>
+        <p>Como um <strong>meio-elfo</strong>, Aramil recebe habilidades raciais que refletem sua herança mista, como visão no escuro e imunidade a magias de sono.</p>
+        <p>Como um mago, Aramil escolhe a escola de Evocação, permitindo-lhe lançar magias de dano com maior eficácia. Ele também seleciona habilidades como Prestidigitação e Mãos Mágicas para aprimorar suas habilidades mágicas.</p>
+        <p>Aramil está pronto para embarcar em uma aventura emocionante, onde ele usará sua inteligência e magia para superar desafios e desvendar mistérios no mundo de Dungeons & Dragons.</p>
+      </section>
+      </main>
+      <footer>
+      <p>Criado com HTML e CSS por Bard, um modelo de linguagem da Google AI.</p>
+      </footer>
+      </body>
+      </html>
