@@ -17,17 +17,6 @@ O tema da apresentação do sistema de rpg de maneira simplificada e visual foi 
  1. [ChatGPT (openai.com)](https://chat.openai.com/)
  2. [Gemini](https://gemini.google.com)
 
-## Prompts
+## Aplicação
 
-Prompt de criação do conteúdo da aplicação.
-<p align="center">
-  <img src="imgPrompt/prompt1.jpeg" alt="Prompt de criação do conteúdo da aplicação.">
-</p>
-Prompt de criação do HTML e CSS da aplicação a partir do conteúdo
-<p align="center">
-  <img src="imgPrompt/prompt2.jpg" alt="Prompt de criação do HTML e CSS da aplicação a partir do conteúdo.">
-</p>
-Prompt da estilização da aplicação
-<p align="center">
-  <img src="imgPrompt/prompt3.jpg" alt="Prompt da estilização da aplicação">
-</p>
+Clique [aqui]() para abrir a aplicação no navegador.
