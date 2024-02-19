@@ -21,7 +21,7 @@ O tema da apresentação do sistema de rpg de maneira simplificada e visual foi 
 
 Prompt de criação do conteúdo da aplicação.
 <p align="center">
-  <img src="imgPrompt/prompt1.jpg" alt="Prompt de criação do conteúdo da aplicação.">
+  <img src="imgPrompt/prompt1.jpeg" alt="Prompt de criação do conteúdo da aplicação.">
 </p>
 Prompt de criação do HTML e CSS da aplicação a partir do conteúdo
 <p align="center">
