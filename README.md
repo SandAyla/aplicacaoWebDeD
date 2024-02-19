@@ -12,8 +12,8 @@ O repositório representa **o artefato da U1** da matéria Tópicos Especiais Em
 ## Objetivo 
 O tema da apresentação do sistema de rpg de maneira simplificada e visual foi escolhido por nós como foco principal do nosso trabalho, pois existe a necessidade de proporcionar uma entrada acessível e atrativa para novos participantes. Uma abordagem visual eficaz foi adotada para simplificar conceitos inicias novos, tornando o RPG mais acessível a um público iniciante
 
-## Link das ferramenta 
+## Link das ferramentas
 
  1. [ChatGPT (openai.com)](https://chat.openai.com/)
  2. [Gemini](https://gemini.google.com)
- 3. [Bing (criador de imagens)](https://www.bing.com/images/create)
+ 3. [Bing (copilot)](https://www.bing.com/images/create)
