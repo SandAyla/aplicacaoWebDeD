@@ -4,15 +4,15 @@ Autores:
  - Ayla Santana Florêncio  
  - Marianna Ariel Soares Silva Vieira  
  - Sérgio Manhães Moura Filho
-## Introdução
+## :game_die:Introdução
 
 O repositório representa **o artefato da U1** da matéria Tópicos Especiais Em Inteligência Artificial (**COMP0492**) no período 2023.2 mestrada pelo Prof. Dr. Hendrik Macedo e utiliza ferramentas (**CHATGPT e Bard AI**) apresentadas em sala de aula.
 
 
-## Objetivo 
+## :game_die:Objetivo 
 O tema da apresentação do sistema de rpg de maneira simplificada e visual foi escolhido por nós como foco principal do nosso trabalho, pois existe a necessidade de proporcionar uma entrada acessível e atrativa para novos participantes. Uma abordagem visual eficaz foi adotada para simplificar conceitos inicias novos, tornando o RPG mais acessível a um público iniciante
 
-## Link das ferramentas
+## :link:Link das ferramentas
 
  1. [ChatGPT (openai.com)](https://chat.openai.com/)
  2. [Gemini](https://gemini.google.com)
