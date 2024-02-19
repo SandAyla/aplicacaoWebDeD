@@ -16,7 +16,4 @@ O tema da apresentação do sistema de rpg de maneira simplificada e visual foi 
 
  1. [ChatGPT (openai.com)](https://chat.openai.com/)
  2. [Gemini](https://gemini.google.com)
-
-## Aplicação
-
-Clique [aqui]() para abrir a aplicação no navegador.
+ 3. [Bing (criador de imagens)](https://www.bing.com/images/create)
