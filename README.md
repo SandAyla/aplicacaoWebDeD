@@ -19,6 +19,6 @@ O tema da apresentação do sistema de rpg de maneira simplificada e visual foi 
 
 ## Prompts
 
-![Prompt de criação do conteúdo da aplicação.](prompt1.jpg)
-![Prompt de criação do HTML e CSS da aplicação a partir do conteúdo.](prompt2.jpg)
-![Prompt da estilização da aplicação](prompt3.jpg)
+- ![Prompt de criação do conteúdo da aplicação.](prompt1.jpg)
+- ![Prompt de criação do HTML e CSS da aplicação a partir do conteúdo.](prompt2.jpg)
+- ![Prompt da estilização da aplicação](prompt3.jpg)
