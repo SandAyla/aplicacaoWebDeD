@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "Quicksand";
+    src: local("Quicksand"),
+      url(../../assets/fonts/Quicksand-Regular.ttf) format("truetype");
+  }
+  
+  @font-face {
+      font-family: "Quicksand-Bold";
+      src: local("Quicksand-Bold"), url(../../assets/fonts/Quicksand-Bold.ttf) format("truetype");
+  }
+
+.pageA {
+    flex-direction: row;
+    margin: 0 auto;
+    background-color: ghostwhite;
+    width: 100%;
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 18%;
+    background-color: white;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+.main-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.topbar {
+    height: 8%;
+    background-color: #004c5c;
+    color: white;
+    width: 100%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+}
+
+.topbar-user{
+    display: flex;
+    height: 50px;
+    width: 75%;
+    flex-direction: row-reverse;
+}
+.topbar-title{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 25%;
+    padding: auto;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+.icon {
+    align-items: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    max-width: 250px;
+    color: black;
+}
+  
+.icon p {
+    text-align: justify;
+    margin-top: 0;
+}
+  
+.logo {
+    height: 50px;
+}
+
+.topbar-user img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 5px;
+
+}
+
+h2{
+    font-family: "Quicksand-Bold";
+    font-size: 25;
+    margin-left: 10px;
+}
+
+#buttonMenu{
+    width: 98%;
+    text-decoration: none;
+    text-align: left;
+    height: 40px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    background-color: white;
+    border-width: 0px;
+    margin-left: -5px;
+    font-family: "Quicksand";
+    transition: color 0.3s, margin-left 0.3s;
+}
+
+#buttonMenu:hover{
+    color: #d07e43;
+    margin-left: 3px;
+    border-left-width: 3px;
+    border-left-color: #d07e43;
+    background-color: ghostwhite;
+}
+
+#itensMenu{
+    color: black;
+}
+
+
+html,
+body,
+#root,
+.App {
+height: 100%;
+}
+    

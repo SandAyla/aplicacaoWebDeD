@@ -1,0 +1,206 @@
+@font-face {
+  font-family: "Quicksand";
+  src: local("Quicksand"),
+    url(../../assets/fonts/Quicksand-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Quicksand-Bold";
+  src: local("Quicksand-Bold"),
+    url(../../assets/fonts/Quicksand-Bold.ttf) format("truetype");
+}
+
+.icon {
+  align-items: center;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  max-width: 300px;
+}
+
+.icon p {
+  text-align: justify;
+  margin-top: 0;
+}
+
+.logo {
+  height: 100px;
+}
+
+.infoInput {
+  margin: auto;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 4%;
+  width: 45%;
+  margin-right: 10px;
+  margin-left: 20px;
+  height: auto;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  background-color: white;
+}
+
+.reciboInput {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 4%;
+  width: 45%;
+  margin-right: 10px;
+  margin-left: 20px;
+  height: auto;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  background-color: white;
+}
+
+.reciboInput h2 {
+  margin-left: -5px;
+  color: #004c5c;
+}
+
+.input {
+  border-radius: 0.3rem;
+  padding: 0.6rem;
+  width: 60%;
+  height: 20px;
+  border-color: #d07e43 #d07e43 #d07e43;
+  background-color: ghostwhite;
+  margin: 5px auto;
+  font-family: "Quicksand-Bold";
+}
+
+select {
+  height: 30px;
+  border-radius: 0.3rem;
+  border: #d07e43;
+  background-color: ghostwhite;
+  width: 65%;
+  padding: 0.5rem;
+}
+
+.divInput {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.inputButton {
+  margin-top: 1.5rem;
+  border-radius: 0.5em;
+  align-self: flex-start;
+  border-color: transparent;
+  background-color: #004c5c;
+  color: white;
+  height: 45px;
+  width: 170px;
+  font-family: "Quicksand-Bold";
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.sectionForm {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  transition: filter 0.5s ease;
+}
+
+.blur {
+  .blur {
+    filter: blur(5px);
+  }
+}
+
+h3 {
+  font-family: "Quicksand-Bold";
+  font-size: 20px;
+  color: #004c5c;
+}
+
+.cardSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  background-color: aliceblue;
+  height: 140px;
+  margin-top: 1rem;
+  border-radius: 4px;
+}
+
+.resumoInfos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.infoPrecos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.formTitle {
+  margin-left: -5px;
+  font-size: 20px;
+  color: #004c5c;
+}
+
+.adInfo {
+    font-family: "Quicksand";
+}
+
+.adText {
+    padding: 3px 0;
+}
+
+#myTextArea {
+  resize: none;
+}
+
+#myDropdown {
+    height: 40px;
+    font-family: "Quicksand-Bold";
+    font-size: 16px;
+}
+
+.dropOption {
+    font-family: "Quicksand-Bold";
+    font-size: 14px;
+}
+
+.tabelaDenuncias {
+  align-items: center;
+  margin-left: 10px;
+}
+
+.tabelaD {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tabelaContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.expandButton {
+  border-color: transparent;
+  background-color: #004c5c;
+  color: white;
+  height: 40px;
+  border-radius: 0.6em;
+  font-family: "Quicksand";
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: center;
+}
