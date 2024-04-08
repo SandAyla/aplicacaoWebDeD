@@ -8,7 +8,7 @@ const Sidebar = ({onSidebarItemClick}) => {
     <div className="sidebar">
         <div className="icon">
           <img src={logo} alt="logo" className="logo" />
-          <h2> Cozinha Virtual </h2>
+          <h2> E-Scudo do Mestre </h2>
         </div>
 
         <nav id='itensMenu'>

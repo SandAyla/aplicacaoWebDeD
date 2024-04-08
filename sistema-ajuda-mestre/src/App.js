@@ -5,6 +5,7 @@ function App() {
   return (
     <Routes>
       <Route path='/dashboard' element={<DashboardAnuncios/>}/>
+    
     </Routes>
   );
 

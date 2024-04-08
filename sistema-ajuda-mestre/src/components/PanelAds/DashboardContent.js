@@ -3,6 +3,8 @@ import React, {useState, useEffect} from 'react';
 import Dashboard from '../Util/Dashboard';
 import Cadastro from '../Util/Cadastro';
 import Denuncias from '../Util/Denuncias';
+import DALLEReactApp from '../DALLEReactApp';
+import PdfChatApp from '../PdfChatApp';
 
 const DashboardContent = ({pagina}) => {
 
@@ -58,10 +60,10 @@ const DashboardContent = ({pagina}) => {
     switch (pagina) {
       case 'Dashboard Anuncios':
         return <Dashboard data={anuncios} metricas = {metricas} />;
-      case 'Cadastro de Anuncios':
-        return <Cadastro/>
-      case 'Central de Denuncias':
-        return <Denuncias/>
+      case 'Crie NPCs':
+        return <DALLEReactApp/>
+      case 'Consulte história':
+        return <PdfChatApp/>
       case 'relatorio':
         return <div>Relatório</div>;
       default:

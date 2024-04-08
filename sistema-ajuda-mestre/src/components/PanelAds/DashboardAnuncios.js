@@ -6,7 +6,7 @@ import DashboardContent from "./DashboardContent.js";
 
 function DashboardAnuncios() {
 
-    const [selectedContent, setSelectedContent] = useState('Dashboard Anuncios');
+    const [selectedContent, setSelectedContent] = useState('Busque Conhecimento');
   
     const handleSidebarItemClick = (content) => {
       setSelectedContent(content);

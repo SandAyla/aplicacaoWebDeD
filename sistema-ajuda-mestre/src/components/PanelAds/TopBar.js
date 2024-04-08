@@ -17,8 +17,6 @@ const Topbar = ({pagina}) => {
               <h2>{pagina}</h2>    
           </div>
           <div className="topbar-user">
-            <img className="logo" src={image} alt="user" />
-            <h3>Olá, {dadosUser.nome_usuario}</h3>
           </div>
       </div>
     );

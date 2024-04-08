@@ -1,0 +1,76 @@
+  @font-face {
+    font-family: "Quicksand";
+    src: local("Quicksand"),
+      url(../assets/fonts/Quicksand-Regular.ttf) format("truetype");
+  }
+  
+  @font-face {
+      font-family: "Quicksand-Bold";
+      src: local("Quicksand-Bold"), url(../assets/fonts/Quicksand-Bold.ttf) format("truetype");
+  }
+
+.sent-message {
+    background-color: #DCF8C6;
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 8px;
+    align-self: flex-end; /* Alinhar as mensagens enviadas à direita */
+    
+  }
+  
+.received-message {
+    background-color: #E5E5EA;
+    border-radius: 10px;
+    padding: 8px;
+    margin-bottom: 8px;
+    align-self: flex-start; /* Alinhar as mensagens recebidas à esquerda */
+}
+.foto {
+    height: 150px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.textoAssistente {
+    font-size: 28px;
+    font-family: "Quicksand-Bold";
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.header-assistente {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+
+    
+}
+
+.infoInputs {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding: 4%;
+    width: 45%;
+    margin-right: 10px;
+    margin-left: 20px;
+    height: auto;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    background-color: white;
+  }
+
+  .sectionForms {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    transition: filter 0.5s ease;
+    justify-content: start;
+  }
+  .textoAssistentes {
+    font-size: 28px;
+    font-family: "Quicksand-Bold";
+    margin-top: 10px;
+    margin-left: 10px;
+  }
